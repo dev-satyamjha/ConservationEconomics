@@ -72,14 +72,14 @@ Accepted Answers: bioavailability
 
 ### Question 6 (1 point)  
 **Hydrocarbons derived directly from mineral oils are**  
-- [ ] petrogenic hydrocarbons  
-- [x] pyrogenic hydrocarbons  
+- [x] petrogenic hydrocarbons  
+- [ ] pyrogenic hydrocarbons  
 - [ ] biogenic hydrocarbons  
 - [ ] chemoenic hydrocarbons  
 
 Yes, the answer is correct.  
 Score: 1  
-Accepted Answers: pyrogenic hydrocarbons
+Accepted Answers: petrogenic hydrocarbons
 
 ---
 
